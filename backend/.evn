@@ -1,0 +1,9 @@
+PORT=5000
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=cfms
+DB_USER=root
+DB_PASS=
+JWT_SECRET=change_this_to_a_long_random_string
+JWT_EXPIRES=8h
+CLIENT_URL=http://localhost:5173
